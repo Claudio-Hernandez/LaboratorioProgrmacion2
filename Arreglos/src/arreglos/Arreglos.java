@@ -27,6 +27,7 @@ public class Arreglos {
         int ejercicio = 0;
         Metodos_arreglos c = new Metodos_arreglos(numero);
         Metodos_arreglos2 v = new Metodos_arreglos2(size);
+        System.out.println("lolo");
         int[] be = new int[size];
         be = lectura(size);
 
